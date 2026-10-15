@@ -4,8 +4,8 @@
 
 
 By Brian Riordan  
-[guaguanco127@gmail.com](mailto:guaguanco127@gmail.com)  
-[brianriordanmusic@gmail.com](mailto:brianriordanmusic@gmail.com)  
+guaguanco127 [at] gmail [dot] com  
+brianriordanmusic [at] gmail [dot] com  
 [https://www.brianriordanmusic.com/](https://www.brianriordanmusic.com/)
 
 Repository for br.metro.random.1.2, with all related files, can be found here: [https://github.com/guaguanco127/br.metro.random](https://github.com/guaguanco127/br.metro.random)  
